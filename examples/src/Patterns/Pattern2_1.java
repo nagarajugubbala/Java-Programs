@@ -1,8 +1,8 @@
 public class Pattern2_1{  
     public static void main(String []args){  
            int i,j,lines=5;  
-      for(i=1;i<=lines;i++){// this loop is used to print the lines  
-         for(j=lines;j>=1;j--){// this loop is used to print numbers in a line  
+      for(i=1;i<=lines;i++){ 
+         for(j=lines;j>=1;j--){
              if(j!=i)  
               System.out.print(j);  
               else  

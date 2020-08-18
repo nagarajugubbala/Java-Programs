@@ -7,11 +7,11 @@ public class Prime_Num {
         int n = s.nextInt();
         if (isPrime(n)) {
         System.out.println(n + " is a prime number.");
-    }
-    else {
+        }
+        else {
         System.out.println(n + " is not a prime number.");
+        }
     }
-}
 public static boolean isPrime(int n) {
     if (n <= 1) {
         return false;
