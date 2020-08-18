@@ -8,6 +8,7 @@ public class Vowel_Consonant {
         Scanner c= new Scanner(System.in);
         System.out.println("Enter a alphabet character: ");
         ch = c.next();
+        c.close();
         switch (ch) {
             case "a":
             System.out.println(ch + " is vowel");

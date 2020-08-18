@@ -13,7 +13,6 @@ class Swaping{
       x = s2.nextInt();
       System.out.println("Enter two numbers y: ");
       y = s1.nextInt();
-     
       System.out.println("Before Swapping\nx = "+x+"\ny = "+y);
      
       t = x;
