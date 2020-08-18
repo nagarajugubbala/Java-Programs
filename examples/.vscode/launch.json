@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise10",
+            "request": "launch",
+            "mainClass": "Exercise10",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise8",
+            "request": "launch",
+            "mainClass": "Exercise8",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise6",
+            "request": "launch",
+            "mainClass": "Exercise6",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise4",
+            "request": "launch",
+            "mainClass": "Exercise4",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise3",
+            "request": "launch",
+            "mainClass": "Exercise3",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise7",
+            "request": "launch",
+            "mainClass": "Exercise7",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Excercise2",
+            "request": "launch",
+            "mainClass": "Excercise2",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Excercise_2",
+            "request": "launch",
+            "mainClass": "Excercise_2",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Excercise",
+            "request": "launch",
+            "mainClass": "Excercise",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main2<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main3<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main4<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main4",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main5<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main5",
+            "projectName": "examples_2ab13bd3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main6<examples_2ab13bd3>",
+            "request": "launch",
+            "mainClass": "Main6",
+            "projectName": "examples_2ab13bd3"
+        }
+    ]
+}
